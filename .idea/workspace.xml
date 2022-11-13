@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4b74d85e-ae42-4469-9688-c899d6db476b" name="Changes" comment="print all primes">
-      <change afterPath="$PROJECT_DIR$/Rotation of Numbers/Rotation of Numbers.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Rotation of Numbers/src/Main.java" afterDir="false" />
+    <list default="true" id="4b74d85e-ae42-4469-9688-c899d6db476b" name="Changes" comment="rotation and prime">
+      <change afterPath="$PROJECT_DIR$/Benjamin bulbs/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GCD AND LCM/GCD AND LCM.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GCD AND LCM/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prime factors/Prime factors.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prime factors/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythagorian triplet/Pythagorian triplet.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythagorian triplet/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -40,7 +45,35 @@
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-18&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Main (4)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="GCD AND LCM" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Prime factors" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Pythagorian triplet" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Benjamin bulbs" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="prime" />
@@ -48,17 +81,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Prime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Prime" />
-      <module name="DSA" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (4)" />
+        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Prime" />
       </list>
     </recent_temporary>
   </component>
@@ -92,7 +121,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668112972829</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="rotation and prime">
+      <created>1668351253602</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1668351253602</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -109,6 +145,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="take input java" />
     <MESSAGE value="print all primes" />
-    <option name="LAST_COMMIT_MESSAGE" value="print all primes" />
+    <MESSAGE value="rotation and prime" />
+    <option name="LAST_COMMIT_MESSAGE" value="rotation and prime" />
   </component>
 </project>

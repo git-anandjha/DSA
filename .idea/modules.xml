@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Benjamin bulbs/Benjamin bulbs.iml" filepath="$PROJECT_DIR$/Benjamin bulbs/Benjamin bulbs.iml" />
       <module fileurl="file://$PROJECT_DIR$/DSA.iml" filepath="$PROJECT_DIR$/DSA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GCD AND LCM/GCD AND LCM.iml" filepath="$PROJECT_DIR$/GCD AND LCM/GCD AND LCM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Prime factors/Prime factors.iml" filepath="$PROJECT_DIR$/Prime factors/Prime factors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pythagorian triplet/Pythagorian triplet.iml" filepath="$PROJECT_DIR$/Pythagorian triplet/Pythagorian triplet.iml" />
       <module fileurl="file://$PROJECT_DIR$/Rotation of Numbers/Rotation of Numbers.iml" filepath="$PROJECT_DIR$/Rotation of Numbers/Rotation of Numbers.iml" />
       <module fileurl="file://$PROJECT_DIR$/prime/prime.iml" filepath="$PROJECT_DIR$/prime/prime.iml" />
     </modules>
