@@ -9,7 +9,7 @@ public class Main {
         int mid=str;
         int spaces=1;
         for (int i = 1; i <= n;i++) {
-            System.out.println(str+","+spaces);
+            System.out.println(str+","+spaces+","+str);
             if(i<=n/2){
                 str--;
                 spaces+=2;
