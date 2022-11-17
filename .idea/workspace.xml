@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4b74d85e-ae42-4469-9688-c899d6db476b" name="Changes" comment="wedge pattern">
-      <change afterPath="$PROJECT_DIR$/Patterns 1/Patterns 1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/diamond pattern/diamond pattern.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/diamond pattern/src/Main.java" afterDir="false" />
+    <list default="true" id="4b74d85e-ae42-4469-9688-c899d6db476b" name="Changes" comment="hollow diamond pattern">
+      <change afterPath="$PROJECT_DIR$/NumberPat/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cross pattern/cross pattern.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cross pattern/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/diamond/diamond.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/diamond/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -41,24 +43,24 @@
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-18&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Main (3)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="cross pattern" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Prime factors" />
+      <module name="diamond" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Pythagorian triplet" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Benjamin bulbs" />
+      <module name="NumberPat" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -79,11 +81,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main (5)" />
-        <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (5)" />
       </list>
     </recent_temporary>
   </component>
@@ -138,7 +140,21 @@
       <option name="project" value="LOCAL" />
       <updated>1668540965478</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="hollow diamond pattern">
+      <created>1668545172291</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1668545172291</updated>
+    </task>
+    <task id="LOCAL-00008" summary="hollow diamond pattern">
+      <created>1668545221982</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1668545221982</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -158,6 +174,7 @@
     <MESSAGE value="rotation and prime" />
     <MESSAGE value="primes and benjamin bulb problems" />
     <MESSAGE value="wedge pattern" />
-    <option name="LAST_COMMIT_MESSAGE" value="wedge pattern" />
+    <MESSAGE value="hollow diamond pattern" />
+    <option name="LAST_COMMIT_MESSAGE" value="hollow diamond pattern" />
   </component>
 </project>
